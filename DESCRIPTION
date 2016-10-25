@@ -1,0 +1,10 @@
+Package: DiVaMo
+Type: Package
+Title: DiVaMo
+Version: 0.6
+Date: 2016-07-13
+Author: Alessandro Ingrosso
+Maintainer: Alessandro Ingrosso <a.ingrosso@me.com>
+Description: This library compares two specimens' classes, desease and healty, and it uses pathways to collect a specific genes' subset.
+  Desease specimens are named case, healty ones are named control.
+License: GPL-2
